@@ -1,8 +1,8 @@
 # README: Sales Prediction using Python
 
-## Author: Hetanshi Acharya
+## Author: Smit Prajapati
 
-## Batch: July
+## Create: December 2024
 
 ## Domain: Data Science
 
